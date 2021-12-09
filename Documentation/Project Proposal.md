@@ -1,6 +1,6 @@
 # Diabetes Health Indicators Classfication Model
 ![Diabetes](https://user-images.githubusercontent.com/63130647/145461993-ccd81a96-7b1a-4609-b1b0-5ecb59b3bca9.jpg)
-jpg)
+
 
 
 
