@@ -1,6 +1,6 @@
 # Diabetes Health Indicators Classfication Model
 
-![TLC logo](https://www.narayanahealth.org/blog/wp-content/uploads/2020/04/shutterstock_1182539971.jpg)
+![TLC logo](shutterstock_1182539971.jpg)
 
 
 # Company info
