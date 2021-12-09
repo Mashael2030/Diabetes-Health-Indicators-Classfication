@@ -1,10 +1,10 @@
 # Diabetes Health Indicators Classfication Model
+![Diabetes](https://user-images.githubusercontent.com/63130647/145461993-ccd81a96-7b1a-4609-b1b0-5ecb59b3bca9.jpg)
+jpg)
 
-![Diabetes-Care-Plan](https://user-images.githubusercontent.com/63130647/145460109-7d31bbe5-ca84-4a07-a349-62f60fb0532f.jpg)
 
 
-
-# Company info
+# Overview 
 Netflix is a platform where most people watch the trending movies and series.
 
 # Problem statement
