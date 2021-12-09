@@ -1,6 +1,7 @@
 # Diabetes Health Indicators Classfication Model
 
-![shutterstock_1182539971](https://user-images.githubusercontent.com/63130647/145459935-d3f5afc8-2f60-4783-90ec-95a54c64db62.jpg)
+![Diabetes-Care-Plan](https://user-images.githubusercontent.com/63130647/145460109-7d31bbe5-ca84-4a07-a349-62f60fb0532f.jpg)
+
 
 
 # Company info
