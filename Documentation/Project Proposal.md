@@ -1,6 +1,6 @@
 # Diabetes Health Indicators Classfication Model
 
-![TLC logo](shutterstock_1182539971.jpg)
+![shutterstock_1182539971](https://user-images.githubusercontent.com/63130647/145459935-d3f5afc8-2f60-4783-90ec-95a54c64db62.jpg)
 
 
 # Company info
