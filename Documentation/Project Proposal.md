@@ -48,8 +48,6 @@ The dataset is provided in .csv format. It contains **254000 observation** , eac
 | Income                | Income scale, scale 1-8 1 = less than $10,000 5 = less than $35,000 8 = $75,000 or more.
 
 The data that will be used in this project has been downloaded from Kaggle (https://www.kaggle.com/alexteboul/diabetes-health-indicators-dataset).
-* 22 features
-* 254k rows
 
 # Tools
 * **Technologies:** Python, Jupyter notebook.
