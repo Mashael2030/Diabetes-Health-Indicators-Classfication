@@ -43,7 +43,6 @@ The dataset is provided in .csv format. It contains **254000 observation** , eac
 | Sex                   | 0 = female 1 = male
 | Age                   | 13-level age category (_AGEG5YR see codebook) 1 = 18-24 9 = 60-64 13 = 80 or older .
 |Sex                    | 0 = female 1 = male.
-| Age                   | 13-level age category (_AGEG5YR see codebook) 1 = 18-24 9 = 60-64 13 = 80 or older .
 |Education              |Education level (EDUCA see codebook) scale 1-6 1 = Never attended school or only kindergarten , 2 = Grades 1 through 8 (Elementary) ,3 = Grades 9                               throug 11 (Some high school), 4 = Grade 12 or GED (High school graduate) , 5 = College 1 year to 3 years (Some college or technical school) , 6 = College                         4 years or more (College graduate).   
 | Income                | Income scale, scale 1-8 1 = less than $10,000 5 = less than $35,000 8 = $75,000 or more.
 
