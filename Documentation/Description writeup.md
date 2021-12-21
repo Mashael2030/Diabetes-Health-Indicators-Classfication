@@ -26,16 +26,15 @@ The classification algorithms that has been used in this project:
 - K-Neatest Neighbors
 - Decision Tree
 - Random Forest
-- Stacking
 - Bagging
 - Naive Bayes
 - Ensembling with Voting (HARD,SOFT,AVERAGE) 
 
 ## Tools 
 * Python and Jupyter Notebook
-* Numpy and Pandas for data manipulation
-* Matplotlib, Seaborn and Plotly for visuializations
-* Sklearn for ML algorithms
+* Pandas and dataprep for data manipulation
+* Seaborn and Plotly for visuializations
+* Sklearn for ML algorithms.
 
 ## Communication
 The project process and result has presented. To see the presentation slides click [HERE](https://github.com/iamal95/Bank-Loan-classification/blob/main/Documents/BankLoan%20Presentation.pdf).
