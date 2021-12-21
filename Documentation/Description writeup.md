@@ -37,4 +37,4 @@ The classification algorithms that has been used in this project:
 * Sklearn for ML algorithms.
 
 ## Communication
-The project process and result has presented. To see the presentation slides click [HERE](https://github.com/iamal95/Bank-Loan-classification/blob/main/Documents/BankLoan%20Presentation.pdf).
+The project process and result has presented. To see the presentation slides click [HERE](https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication/blob/main/Documentation/Diabetes%20presentation.pdf).
